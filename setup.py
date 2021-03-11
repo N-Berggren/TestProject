@@ -7,6 +7,5 @@ setup(
     url='',
     license='',
     author='Nils Berggren',
-    author_email='nils.berggren@myconit.se',
     description='just a test project'
 )
