@@ -7,5 +7,6 @@ setup(
     url='',
     license='',
     author='Nils Berggren',
+    author_email='nils.berggren@osterskar.se',
     description='just a test project'
 )
